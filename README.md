@@ -1,4 +1,4 @@
-![Banner](bannerimg.png)
+![banner](bannerimg.png)
 
 
 ## Hi 👋 I'm Sabra
